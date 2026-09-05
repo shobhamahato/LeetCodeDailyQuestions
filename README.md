@@ -1,2 +1,2 @@
-# Shobhamahatorepo
-new repository 
+#LeetCode Daily Questions
+
