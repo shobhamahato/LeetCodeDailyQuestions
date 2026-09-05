@@ -14,6 +14,7 @@ Example:
 
 ```text
 LeetCode_3875_ConstructUniformParityArrayI.java
+LeetCode_3876_ConstructUniformParityArrayII.java
 ```
 
 ## 🚀 Daily Practice
@@ -22,10 +23,9 @@ I aim to solve and upload LeetCode problems regularly to track my progress and s
 
 ## 📈 Progress
 
-| #    | Problem                          | Language |
-| ---- | -------------------------------- | -------- |
-| 3875 | Construct Uniform Parity Array I | Java     |
+| #    | Problem                           | Difficulty | Language |
+| ---- | --------------------------------- | ---------- | -------- |
+| 3875 | Construct Uniform Parity Array I  | Medium     | Java     |
+| 3876 | Construct Uniform Parity Array II | Medium     | Java     |
 
 ---
-
-⭐ **Keep solving. Keep learning. Keep improving.**
