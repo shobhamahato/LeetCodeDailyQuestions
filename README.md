@@ -19,6 +19,7 @@ I aim to solve and upload LeetCode problems regularly to track my progress and s
 | 3875 | Construct Uniform Parity Array I             | Easy       | Java     |
 | 3643 | Reverse Degree of a String                   | Easy       | Java     |
 | 3550 | Smallest Index With Digit Sum Equal to Index | Easy       | Java     |
+| 856  | Score of Parentheses                         | Medium     | Java     |
 | 1614 | Maximum Nesting Depth of the Parentheses     | Easy       | Java     |
 
 ---
