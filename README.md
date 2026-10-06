@@ -4,7 +4,7 @@ This repository contains my **daily LeetCode problem solutions**, implemented pr
 
 ## 🛠️ Language
 
-* **Java**
+- **Java**
 
 ## 🚀 Daily Practice
 
@@ -20,6 +20,7 @@ I aim to solve and upload LeetCode problems regularly to track my progress and s
 | 3643 | Reverse Degree of a String                   | Easy       | Java     |
 | 3550 | Smallest Index With Digit Sum Equal to Index | Easy       | Java     |
 | 856  | Score of Parentheses                         | Medium     | Java     |
+| 921  | Minimum Add to Make Parentheses Valid        | Medium     | Java     |
 | 1614 | Maximum Nesting Depth of the Parentheses     | Easy       | Java     |
 
 ---
