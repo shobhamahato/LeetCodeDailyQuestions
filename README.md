@@ -9,48 +9,41 @@ This repository contains my **daily LeetCode problem solutions**, implemented pr
 ## ⚙️ Setup
 
 1. Install the Java Development Kit (JDK) on your system.
-2. Install a Java IDE such as Eclipse or IntelliJ IDEA, or use VS Code.
+2. Install a Java IDE such as Eclipse, IntelliJ IDEA, or VS Code.
 3. Clone this repository:
 
    ```bash
    git clone https://github.com/shobhamahato/LeetCode-Daily-Questions.git
    ```
 
-4. Open the project folder in your preferred IDE.
+4. Open the repository folder in your preferred IDE.
 
 ## ▶️ Usage
 
 1. Choose a problem from the progress table below.
 2. Open the corresponding `.java` solution file.
-3. Compile and run the solution using your Java IDE or terminal, where applicable.
-4. For LeetCode problems, submit the solution on the corresponding LeetCode problem page to verify its correctness.
-
-**Compile and run a standalone Java file:**
-
-```bash
-javac 2089_FindTargetIndicesAfterSortingArray.java
-java Solution
-```
-
-*Note: LeetCode solution classes are often named `Solution`. If your file contains `class Solution`, the Java filename must be `Solution.java` for direct compilation with `javac`. Rename the class or use your LeetCode submission environment as appropriate.*
+3. Review the solution and practice understanding the logic.
+4. Visit the linked LeetCode problem to read the question, run test cases, and submit your solution.
 
 ## 🚀 Daily Practice
 
-I aim to solve and upload LeetCode problems regularly to track my progress and strengthen my DSA skills.
+I aim to solve and upload LeetCode problems regularly to track my progress and strengthen my Data Structures and Algorithms (DSA) skills.
 
 ## 📈 Progress
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
-| 3870 | Count Commas in Range | Easy | Java |
-| 3876 | Construct Uniform Parity Array II | Medium | Java |
-| 3875 | Construct Uniform Parity Array I | Easy | Java |
-| 3643 | Reverse Degree of a String | Easy | Java |
-| 3550 | Smallest Index With Digit Sum Equal to Index | Easy | Java |
-| 856 | Score of Parentheses | Medium | Java |
-| 921 | Minimum Add to Make Parentheses Valid | Medium | Java |
-| 1614 | Maximum Nesting Depth of the Parentheses | Easy | Java |
-| 2778 | Sum of Squares of Special Elements | Easy | Java |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | Java |
+| 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | Java |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | Java |
+| 3643 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | Java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | Java |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | Java |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | Java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | Java |
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | Java |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | Java |
 
 ---
+
+⭐ **Goal:** Practice consistently, improve problem-solving skills, and build a strong foundation in Java and DSA.
