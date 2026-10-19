@@ -6,6 +6,34 @@ This repository contains my **daily LeetCode problem solutions**, implemented pr
 
 - **Java**
 
+## ⚙️ Setup
+
+1. Install the Java Development Kit (JDK) on your system.
+2. Install a Java IDE such as Eclipse or IntelliJ IDEA, or use VS Code.
+3. Clone this repository:
+
+   ```bash
+   git clone https://github.com/shobhamahato/LeetCode-Daily-Questions.git
+   ```
+
+4. Open the project folder in your preferred IDE.
+
+## ▶️ Usage
+
+1. Choose a problem from the progress table below.
+2. Open the corresponding `.java` solution file.
+3. Compile and run the solution using your Java IDE or terminal, where applicable.
+4. For LeetCode problems, submit the solution on the corresponding LeetCode problem page to verify its correctness.
+
+**Compile and run a standalone Java file:**
+
+```bash
+javac 2089_FindTargetIndicesAfterSortingArray.java
+java Solution
+```
+
+*Note: LeetCode solution classes are often named `Solution`. If your file contains `class Solution`, the Java filename must be `Solution.java` for direct compilation with `javac`. Rename the class or use your LeetCode submission environment as appropriate.*
+
 ## 🚀 Daily Practice
 
 I aim to solve and upload LeetCode problems regularly to track my progress and strengthen my DSA skills.
@@ -23,5 +51,6 @@ I aim to solve and upload LeetCode problems regularly to track my progress and s
 | 921 | Minimum Add to Make Parentheses Valid | Medium | Java |
 | 1614 | Maximum Nesting Depth of the Parentheses | Easy | Java |
 | 2778 | Sum of Squares of Special Elements | Easy | Java |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | Java |
 
 ---
