@@ -33,6 +33,7 @@ I aim to solve and upload LeetCode problems regularly to track my progress and s
 
 | # | Problem | Difficulty | Language |
 |---|---|---|---|
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | Java |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | Java |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | Java |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | Java |
